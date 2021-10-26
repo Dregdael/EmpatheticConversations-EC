@@ -1,0 +1,2 @@
+# EmpatheticConversations-EC
+This repository presents a database based on Empathetic Dialogues (ED), a databse created by Rashkin et al. with the purpose of cataloging empathetic conversation. The database presented (EC) contains a representative sample of ED, which has been evaluated by a series of experts and added a metric of the level of empathy present in each conversation . This evaluation is based on the Empathy Quotient (EQ) developed by Simon Baron-Cohen and Sally Wheelwright. 
